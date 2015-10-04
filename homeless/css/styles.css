@@ -1,0 +1,202 @@
+body {
+    background-color: #ddd;
+    color: #fff;
+    background-image: url(../img/background.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+
+/* Backgrounds */
+.navbar > .navbar-inner.x-nav-inner {
+    background-color: #3B81E0;
+}
+
+h1.x-main-header {    
+    font-size: 60px;
+    background-size: contain;
+    background-repeat: no-repeat;    
+    text-align: center;
+    height: 40px;
+    background-position: 40%;
+}
+
+div.navbar.x-main-navbar{
+    margin: 0 !important;
+    box-shadow: 0 0 5px black;
+}
+
+.navbar > .navbar-inner.x-nav-inner{
+    min-height: 60px;
+    background-color: #3B81E0;
+    background-image: none !important;    
+    color: #fff;
+    border: none;
+    border-radius: 0px;
+    padding: 0 50px;
+}
+
+.x-nav-height{
+    min-height: 60px;
+    z-index: 0;
+    visibility: hidden;
+}
+
+.x-login-item{
+    display: block;
+    overflow: hidden;
+}
+
+.x-login-item > div {
+    float: left;   
+    margin-top: 11px;
+}
+
+.x-login-item > div.x-profile-picture {
+    background-image: url(../img/default-profile.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.x-login-item > div.x-user-name{    
+    padding-left: 10px;
+    padding-top: 10px;    
+}
+
+.x-login-item > div.x-user-name > a{
+    color: #fff;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 16px;
+}
+
+.container.x-main-wrapper{
+    padding-top: 40px;
+}
+
+a.x-brand{
+    color: #fff;
+    padding-top: 13px;
+    font-size: 25px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+div.x-tip{
+    margin-top: 40px;
+    text-align: center;    
+    font-size: 28px;
+    padding-bottom: 20px;
+    line-height: 30px;
+}
+
+.x-brand-name {
+    font-weight: bold;
+}
+
+.x-lost-found-holder {
+    overflow: hidden;
+    margin-top: 15px;
+    padding: 15px;
+}
+
+.x-lost-found-holder .x-lost-found-holder-inner {
+    margin: 0 auto;
+    width: 900px;
+    overflow: hidden;
+}
+
+.x-lost-found-holder-inner > div {
+    float: left;
+    height: 470px;
+}
+
+.x-lost-found-holder a.x-img-holder {
+    display: block;
+    width: 100%;
+    height: 300px;
+
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+}
+
+.x-main-footer {
+    overflow: hidden;
+    margin-top: 20px;
+    min-height: 50px;
+}
+
+.x-main-footer .x-footer-left{
+    float: left;
+}
+
+.x-main-footer .x-footer-left .x-items-found{    
+    background-image: url(../img/numbers.png);
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 40px;
+    background-size: contain;
+}
+
+.x-main-footer .x-footer-left .x-message{
+    font-size: 18px;
+}
+
+.x-main-footer .x-footer-right {
+    float: right;
+}
+
+.x-main-footer .x-footer-right i.x-icon-questionmark{
+    display: block;
+    background-image: url(../img/questionmark.png);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    background-size: contain;
+}
+
+.x-content{
+    min-height: 517px;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.x-tip-holder {
+    min-height: 40px;
+    margin-top: 40px;
+}
+
+.x-slider{
+    display: none;
+}
+
+.x-home-view{
+    display: block;
+}
+
+.x-search-holder{
+    padding-top: 100px;
+    width: 45%;
+    text-align: center;
+}
+
+.x-map-holder{
+    width: 55%;
+}
+
+.x-search-result{
+    padding-top: 20px;  
+    font-size: 25px;
+}
+
+form li {
+    list-style-type: none;
+}
