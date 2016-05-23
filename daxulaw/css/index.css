@@ -1,0 +1,109 @@
+	.nav-1 a{background: url(../images/li-bg.gif) no-repeat;}
+	#main{padding-top:11px;}
+		#main h1{background: url(../images/main-l-1_22.gif) no-repeat; line-height: 40px;}
+		#main .main-l{width: 645px; float: left;}
+		#main .line li{float: left;}
+		#main .main-2-r li{float: left;}
+		#main .main-l-img{padding:13px 15px 0px 15px;line-height: normal;}
+		#main .main-l-more{float: right;padding-right: 15px;font-size:12px;}
+		#main .main-l-more a{color:#7c7c7c;}
+		#main .main-l-more a:hover{text-decoration: underline}
+/*-----------
+		main-l标题H4部分代码
+-----------*/
+		#main .main-l-inner{width: 643px;border: 1px #cacaca solid;height: 334px;}
+			#main .first-ul li{ float:left}
+			#main .first-ul .main-l-more{float:right}
+/*-----------
+		main-l代码
+-----------*/
+		#main .main-r{width: 350px;margin-left: 7px; float: left;}
+		#main .main-r h1{background: url(../images/main-r_28.gif) no-repeat;}
+			#main .main-r h1 li{ float:left;}
+			#main .main-r-t-inner{border: 1px #cacaca solid;height: 90px;}
+				#main .main-r-b{margin-top: 8px;}
+				#main .main-r-t-inner li{padding-left:20px;padding-top:5px;}
+			#main .main-r-b-inner{border: 0px #cacaca solid;background: #fcfaf3}
+			#main .main-r h1 .main-l-more{ float:right;}
+/*-----------
+		表单代码
+-----------*/	
+		#form_table{ background-color:#fcfaf3; font-size:12px; line-height:20px; color:#808080; padding:10px 30px 10px 30px}
+		#form_table .td{ border-right:none}
+		.star{ color:#ff0033; padding-left:3px;}
+/*-----------------------------------------------------------------------------------------------------
+		以上为首页的
+		main区域代码！
+-----------------------------------------------------------------------------------------------------*/	
+		#main .main-2-l,.main-2-r{float: left}
+			.main-2-l{width: 730px;}
+			.main-2-l li{margin-left: 10px;font-size:12px;}
+			.main-2-l .line{border-bottom: 3px #333 solid;padding:15px 0;}
+			.main-2-l .headname h3{font-size: 16px; color:#004378;font-weight: normal;padding: 5px 5px;line-height: 35px;}
+			.main-2-l .main-2-l-inner{border:1px solid #cccccc;height: 1000px;}
+				.main-2-l .main-2-l-inner h4{background: url(../images/main-2-l-bg_11.gif) repeat-x;line-height: 35px;font-size: 14px;color:#ff6600;padding-left:20px;border-bottom: 2px #333 solid;}
+				.main-2-l .main-2-l-inner dl{padding:17px 10px 0 25px;color:#666666;font-size: 12px;line-height: 20px;}
+				.main-2-l .main-2-l-inner dl a{color:#666;padding-right:5px;}
+				.main-2-l .main-2-l-inner dl a:hover{color:#f2f2f2}
+				.main-2-l .main-2-l-inner dt{font-size:18px;font-weight: bold;}
+				.main-2-l .main-2-l-inner dd{padding-bottom: 10px;}
+			.main-2-r{width: 241px;margin-left: 20px;}
+				.main-2-r h3{background: url(../images/main-2_07.gif) no-repeat; height: 40px; padding-left: 10px;font-size:14px;color:#fff;}
+				.main-2-r li{margin-right:10px;padding-top:12px;}
+				.main-2-r .main-2-r-inner{border: 1px #cecece solid;background: #29659a;font-size:12px;color:#fff;}
+				
+				#form_table{ background-color:#fcfaf3;border:1px #c8c8c8 solid; font-size:12px; line-height:20px; color:#808080; padding:10px 30px 10px 30px}
+				#form_table .td{ border-right:none}
+				
+				#sb_form_table{background-color:#29659a;border:1px #c8c8c8 solid; font-size:12px; line-height:20px; color:#ffffff; padding:5px 10px 5px 10px}
+				#sb_form_table .td{ padding-left:32px;color:#bdbdbd }
+				#sb_form_table .td input{height: 20px;}
+				textarea{ width:150px;}
+				#sb_form_table .icon{ margin:2px 8px 2px 0px;}
+				#sb_form_table div{ padding:4px;}
+/*-----------------------------------------------------------------------------------------------------
+		以上为首页的
+		2级页面main区域代码！
+-----------------------------------------------------------------------------------------------------*/	
+		.main-3-l-inner .font-add{width: 726px;height: 131px;border: 1px #d1d1d1 solid;}
+		.main-3-l-inner p{float: left;}
+		.main-3-l-inner .contact{font-size:12px;padding:16px 0 0 27px;line-height: 1.5em;}
+			.main-3-l-inner .contact span{line-height: 2em;color:#ff6500;}
+		.main-3-l-inner .map-add{width: 726px;height:394px;border: 1px #d1d1d1 solid;background: url(../images/map_11.gif) no-repeat;margin-top: 15px;}
+/*-----------------------------------------------------------------------------------------------------
+		以上为首页的
+		contact的main区域代码！
+-----------------------------------------------------------------------------------------------------*/	
+		.main-4-l-inner ul{margin-top: 20px;}
+		.main-4-l-inner li{width: 691px;height:65px;background: url(../images/main-4_07.jpg) repeat-x;border: 1px #d0d0d0 solid;margin-top: 11px; }
+			.main-4-l-inner li p{float: left;line-height: 65px;font-size: 18px;font-family: '微软雅黑',Arial;color:#666666;padding-left: 20px;}
+			.main-4-l-inner li .li-r{float: right;padding-right: 10px;padding-top: 5px;}
+/*-----------------------------------------------------------------------------------------------------
+		以上为首页的
+		contact的main区域代码！
+-----------------------------------------------------------------------------------------------------*/	
+	.main-5-l {width: 730px; float: left}
+		.main-5-l .line li{margin-left: 10px;font-size:12px;}
+			.main-5-l .line{border-bottom: 3px #333 solid;padding:15px 0;}
+		.main-5-l .headname h3{font-size: 16px; color:#004378;font-weight: normal;padding: 5px 5px;line-height: 35px;}
+		.main-5-l li.main-5-l-inner{width: 728px;border:1px #eee solid;}
+		.main-5-l .main-5-l-inner h4{background: url(../images/main-2-l-bg_11.gif) repeat-x;line-height: 35px;font-size: 14px;color:#ff6600;padding-left:20px;border-bottom: 2px #333 solid;}
+			.main-5-l-inner {margin-bottom: 10px;}
+			.main-5-l-inner dl dt,.main-5-l dl dd{float: left;font-size:12px;}
+			.main-5-l-inner dt{margin: 5px 20px;}
+			.main-5-l-inner dd{margin:10px; color: #666666;}
+			.main-5-l-inner .note{width: 534px;}
+			.main-5-l-inner .more{margin:10px 0 0 20px;}
+			
+
+
+
+
+
+
+
+
+
+
+
+
